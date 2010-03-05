@@ -1,0 +1,4 @@
+LIBRARY	bwh
+EXPORTS
+szModuleFilename
+D3DWindowProc
